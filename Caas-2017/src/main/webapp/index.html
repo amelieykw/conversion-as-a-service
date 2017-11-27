@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+    <title>Conversion As A Service</title>
+  </head>
+
+  <body>
+    <h1>Hello App Engine!</h1>
+  
+    <form action="/collectdata">
+		<div>
+			<label>Email :</label> <input type="text" name="email">
+		</div>
+		<div>
+			<label>SLA :</label> <select name="sla" id="sla">
+				<option value="BRONZE">Bronze</option>
+				<option value="SILVER">Silver</option>
+				<option value="GOLD">Gold</option>
+			</select>
+		</div>
+		<div>
+			<label>Video name :</label> <input type="text" name="videoName">
+		</div>
+		<div>
+			<label>Video Duration :</label> <input type="text" name="videoDuration">
+		</div>
+
+		<input type="submit" value="Submit">
+	</form>
+  </body>
+</html>
+
+

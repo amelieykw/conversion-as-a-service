@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queue-entries>
+  <queue>
+    <name>bronzeQueue</name>
+    <rate>1/s</rate>
+  </queue>
+  <queue>
+    <name>silverQueue</name>
+    <mode>pull</mode>
+  </queue>
+  <queue>
+    <name>goldQueue</name>
+    <mode>pull</mode>
+  </queue>
+</queue-entries>
