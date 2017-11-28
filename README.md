@@ -1,7 +1,9 @@
 # Caas - Conversion as a Service
 
-# Codes - Version de **Abdelmoughit Afailal**
-https://github.com/obisama/Cloud_Computing_Project
+# Codes 
+- [Version](https://github.com/amelieykw/conversion-as-a-service-2017) de **YU Kaiwen** - yu.kaiwen.amelie@gmail.com - @amelieykw 
+
+- [Version](https://github.com/obisama/Cloud_Computing_Project) de **Abdelmoughit Afailal** - abdou.afailal.1994@gmail.com - @obisama 
 
 # Contents
 1. [Introduction](https://github.com/obisama/Cloud_Computing_Project#introduction)
